@@ -1,2 +1,2 @@
 # Abstract-DataTypes
-Expanding Collection of simple implementations of different abstract data types.
+Expanding collection of simple implementations of different abstract data types.
